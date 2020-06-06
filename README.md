@@ -42,7 +42,7 @@ Via command line:
 ```
 $ git clone https://github.com/HeyImMatt/pingpong.git
 
-$ cd programming-language-suggester
+$ cd pingpong
 
 $ code .
 
